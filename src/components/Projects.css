@@ -1,0 +1,42 @@
+.projects {
+    background-color: #23283e;
+    color: #cdcdff;
+    padding: 40px 20px;
+    font-family: 'Poppins', sans-serif;
+  }
+  
+  .projects h2 {
+    text-align: center;
+    margin-bottom: 40px;
+    color: #ffffff;
+  }
+  
+  .projects-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .project-card {
+    background-color: #2a2f4c;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  }
+  
+  .project-card h3 {
+    color: #90a0d9;
+    margin-bottom: 10px;
+  }
+  
+  .project-card p {
+    color: #bdbddd;
+    margin-bottom: 10px;
+  }
+  
+  .tech {
+    color: #cdcdff;
+    font-size: 14px;
+  }

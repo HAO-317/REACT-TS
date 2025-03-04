@@ -1,0 +1,22 @@
+.contact {
+    background-color: #23283e;
+    color: #cdcdff;
+    padding: 40px 20px;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+  }
+  
+  .contact h2 {
+    margin-bottom: 20px;
+    color: #ffffff;
+  }
+  
+  .email-button {
+    background: none;
+    border: 2px solid #bdbddd;
+    color: #bdbddd;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-family: 'Poppins', sans-serif;
+  }
